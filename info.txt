@@ -1,50 +1,33 @@
 1. Introducción
-
-Save Eat es una plataforma digital diseñada para actuar como intermediario entre clientes y múltiples proveedores de comida a domicilio. Su objetivo principal es optimizar la experiencia del usuario permitiéndole comparar opciones de diferentes servicios en un único entorno.
+  Save Eat es una plataforma digital diseñada para actuar como intermediario entre clientes y múltiples proveedores de comida a domicilio. Su objetivo principal es optimizar la experiencia del usuario permitiéndole comparar opciones de diferentes servicios en un único entorno.
 
 2. Objetivo del Sistema
-
-El sistema tiene como finalidad ofrecer al usuario una visión unificada de los restaurantes disponibles en su zona, facilitando la toma de decisiones mediante la comparación de precios, costes adicionales y niveles de fiabilidad entre distintas plataformas de delivery.
+  El sistema tiene como finalidad ofrecer al usuario una visión unificada de los restaurantes disponibles en su zona, facilitando la toma de decisiones mediante la comparación de precios, costes adicionales y niveles de     fiabilidad entre distintas plataformas de delivery.
 
 3. Descripción General
+  Save Eat centraliza la información de múltiples proveedores de comida a domicilio (como plataformas globales y restaurantes locales), permitiendo:
+  Buscar restaurantes disponibles según la ubicación del usuario.
+  Seleccionar productos individuales de diferentes establecimientos.
+  Comparar precios entre distintas plataformas.
+  Visualizar costes adicionales (gastos de envío, comisiones, etc.).
+  Evaluar la fiabilidad del servicio.
 
-Save Eat centraliza la información de múltiples proveedores de comida a domicilio (como plataformas globales y restaurantes locales), permitiendo:
-
-Buscar restaurantes disponibles según la ubicación del usuario.
-Seleccionar productos individuales de diferentes establecimientos.
-Comparar precios entre distintas plataformas.
-Visualizar costes adicionales (gastos de envío, comisiones, etc.).
-Evaluar la fiabilidad del servicio.
 4. Funcionalidades Principales
 4.1 Búsqueda de Restaurantes
-
-El usuario puede introducir su ubicación para obtener un listado de restaurantes cercanos que ofrecen servicio de entrega a domicilio.
+  El usuario puede introducir su ubicación para obtener un listado de restaurantes cercanos que ofrecen servicio de entrega a domicilio.
 
 4.2 Selección de Productos
-
-La plataforma permite navegar por menús y seleccionar platos individuales de distintos restaurantes.
+  La plataforma permite navegar por menús y seleccionar platos individuales de distintos restaurantes.
 
 4.3 Comparador de Precios
+  Se genera automáticamente una interfaz comparativa que incluye:
+  Precio del producto en cada plataforma
+  Costes adicionales asociados
+  Tiempo estimado de entrega
+  Valoración o fiabilidad del servicio
 
-Se genera automáticamente una interfaz comparativa que incluye:
-
-Precio del producto en cada plataforma
-Costes adicionales asociados
-Tiempo estimado de entrega
-Valoración o fiabilidad del servicio
 4.4 Sistema de Alertas
-
-El usuario puede configurar alertas para recibir notificaciones cuando el precio de un producto o servicio disminuya.
+  El usuario puede configurar alertas para recibir notificaciones cuando el precio de un producto o servicio disminuya.
 
 4.5 Recomendación de Suscripciones
-
-El sistema analiza los hábitos del usuario y muestra qué suscripciones de plataformas de delivery pueden resultar más rentables.
-
-5. Valor Añadido
-
-Save Eat aporta valor mediante:
-
-Centralización de información dispersa
-Ahorro económico para el usuario
-Mejora en la toma de decisiones
-Transparencia en costes y calidad del servicio
+  El sistema analiza los hábitos del usuario y muestra qué suscripciones de plataformas de delivery pueden resultar más rentables.
