@@ -1,8 +1,8 @@
 1. Introducción
-  Save Eat es una plataforma digital diseñada para actuar como intermediario entre clientes y múltiples proveedores de comida a domicilio. Su objetivo principal es optimizar la experiencia del usuario permitiéndole comparar opciones de diferentes servicios en un único entorno.
+  Save Eat es una plataforma digital diseñada para actuar como intermediario entre clientes y múltiples proveedores de comida a domicilio. Su objetivo principal es optimizar la experiencia del usuario permitiéndole comparar   opciones de diferentes servicios en un único entorno.
 
 2. Objetivo del Sistema
-  El sistema tiene como finalidad ofrecer al usuario una visión unificada de los restaurantes disponibles en su zona, facilitando la toma de decisiones mediante la comparación de precios, costes adicionales y niveles de     fiabilidad entre distintas plataformas de delivery.
+  El sistema tiene como finalidad ofrecer al usuario una visión unificada de los restaurantes disponibles en su zona, facilitando la toma de decisiones mediante la comparación de precios, costes adicionales y niveles de       abilidad entre distintas plataformas de delivery.
 
 3. Descripción General
   Save Eat centraliza la información de múltiples proveedores de comida a domicilio (como plataformas globales y restaurantes locales), permitiendo:
