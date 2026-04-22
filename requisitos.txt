@@ -1,0 +1,78 @@
+1. Requisitos Funcionales
+RF-01: Búsqueda de restaurantes
+	El sistema deberá permitir al usuario introducir su ubicación para obtener un listado de restaurantes que ofrezcan servicio de entrega a domicilio en su zona.
+
+RF-02: Integración con plataformas de delivery
+	El sistema deberá integrarse con múltiples proveedores de comida a domicilio (plataformas externas y restaurantes locales) para obtener información actualizada de menús, precios y disponibilidad.
+
+RF-03: Visualización de menús
+	El sistema deberá mostrar al usuario los menús disponibles de cada restaurante, incluyendo nombre del producto, descripción y precio.
+
+RF-04: Selección de productos
+	El usuario deberá poder seleccionar platos individuales de uno o varios restaurantes para su análisis comparativo.
+
+RF-05: Comparador de precios
+	El sistema deberá generar una interfaz comparativa que incluya:
+	Precio del producto en cada plataforma
+	Costes adicionales (envío, comisiones, etc.)
+	Precio total final
+RF-06: Visualización de tiempos de entrega
+	El sistema deberá mostrar el tiempo estimado de entrega para cada opción disponible.
+
+RF-07: Evaluación de fiabilidad
+	El sistema deberá mostrar indicadores de fiabilidad basados en valoraciones, tiempos de entrega y calidad del servicio.
+
+RF-08: Sistema de alertas de precios
+	El usuario deberá poder configurar alertas para productos o restaurantes específicos y recibir notificaciones cuando el precio disminuya.
+
+RF-09: Gestión de suscripciones
+	El sistema deberá analizar las condiciones de suscripción de las distintas plataformas y mostrar recomendaciones sobre cuáles son más rentables para el usuario.
+
+RF-10: Gestión de usuario
+	El sistema deberá permitir:
+	Registro de usuarios
+	Inicio de sesión
+	Gestión de preferencias
+	
+RF-11: Notificaciones
+	El sistema deberá enviar notificaciones relacionadas con:
+	Bajadas de precio
+	Recomendaciones
+	Cambios relevantes en pedidos o servicios
+	
+	
+2. Requisitos No Funcionales
+RNF-01: Rendimiento
+	El sistema deberá responder a las consultas del usuario en un tiempo inferior a 2 segundos en condiciones normales de carga.
+
+RNF-02: Escalabilidad
+	El sistema deberá ser capaz de soportar un incremento de usuarios y datos sin degradación significativa del rendimiento.
+
+RNF-03: Disponibilidad
+	El sistema deberá garantizar una disponibilidad del 99.5% anual.
+
+RNF-04: Seguridad
+	El sistema deberá:
+	Proteger los datos personales de los usuarios
+	Utilizar protocolos seguros (HTTPS)
+	Cumplir con normativas de protección de datos (como GDPR)
+	
+RNF-05: Usabilidad
+	La interfaz deberá ser intuitiva y permitir al usuario completar las acciones principales (búsqueda y comparación) de forma sencilla y rápida.
+
+RNF-06: Compatibilidad
+	El sistema deberá ser accesible desde:
+	Navegadores web modernos
+	Dispositivos móviles y tablets
+
+RNF-07: Mantenibilidad
+	El sistema deberá estar diseñado de forma modular para facilitar su mantenimiento y evolución.
+
+RNF-08: Actualización de datos
+	La información de precios, menús y disponibilidad deberá mantenerse actualizada en tiempo casi real.
+
+RNF-09: Interoperabilidad
+	El sistema deberá ser capaz de integrarse con APIs externas de plataformas de delivery.
+
+RNF-10: Fiabilidad
+	El sistema deberá garantizar la consistencia y exactitud de los datos mostrados al usuario.
